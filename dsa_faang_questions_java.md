@@ -634,4 +634,4 @@ public ReturnType solve(InputType input) {
 
 ---
 
-*300+ DSA Questions — FAANG Edition | Java | Generated with Claude*
+*300+ DSA Questions — FAANG Edition | Java | *
