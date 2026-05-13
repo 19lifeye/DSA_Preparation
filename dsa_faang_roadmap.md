@@ -144,5 +144,3 @@
 **Total target: 150–200 problems over 6 months**
 
 ---
-
-*Roadmap generated with Claude — your personal growth assistant*
