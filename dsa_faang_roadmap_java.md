@@ -1035,4 +1035,4 @@ Arrays.copyOfRange(arr, lo, hi);
 
 ---
 
-*DSA Roadmap — Java Edition | Generated with Claude, your personal growth assistant*
+*DSA Roadmap — Java Edition*
