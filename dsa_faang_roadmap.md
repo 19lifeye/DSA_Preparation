@@ -7,8 +7,8 @@
 ## Phase 1 — Foundations & Complexity
 **Duration: Weeks 1–2**
 
-| | Topic | Key Concepts |
-| |---|---|
+| Topic | Key Concepts |
+|---|---|
 | Big O notation | Time & space complexity, best/average/worst case |
 | Arrays & strings | Basic operations, in-place edits, two-pointer patterns |
 | Recursion basics | Base cases, call stack, tail recursion |
